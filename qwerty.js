@@ -1,1 +1,1 @@
-console.log('script qwerty included successfully')
+console.log(Math.PI);
