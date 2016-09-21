@@ -1,1 +1,1 @@
-console.log('script qwerti included successfully')
+console.log('script qwerty included successfully')
